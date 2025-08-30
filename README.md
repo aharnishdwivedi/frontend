@@ -1,6 +1,6 @@
 # AI-Powered Incident Triage Assistant - React Frontend
 
-A modern, responsive React frontend for the AI-Powered Incident Triage Assistant. Built with React 18, Tailwind CSS, and comprehensive testing.
+A modern, responsive React frontend for the AI-Powered Incident Triage Assistant. Built with React 18, Tailwind CSS, and comprehensive testing. Developed by Aharnish with AI assistance.
 
 ## 🚀 Features
 
@@ -13,6 +13,7 @@ A modern, responsive React frontend for the AI-Powered Incident Triage Assistant
 - **Error Handling**: Graceful error handling with user-friendly messages
 - **Accessibility**: ARIA labels, keyboard navigation, and screen reader support
 - **Testing**: Unit tests, integration tests, and E2E tests with Cypress
+- **AI-Powered Development**: Leveraged AI assistance for code generation and optimization
 
 ## 🏗️ Architecture
 
@@ -50,6 +51,7 @@ src/
 - **Lucide React**: Modern icon library
 - **Jest & React Testing Library**: Unit testing
 - **Cypress**: End-to-end testing
+- **AI Assistance**: Leveraged for code generation, optimization, and best practices
 
 ## 📋 Prerequisites
 
@@ -179,6 +181,7 @@ npm run cypress:open
 - **ESLint**: Enforce consistent code style
 - **Prettier**: Automatic code formatting
 - **Husky**: Pre-commit hooks for quality checks
+- **AI-Assisted Development**: Leveraged AI for code generation, refactoring, and optimization
 
 ### Performance
 
@@ -264,6 +267,7 @@ CMD ["nginx", "-g", "daemon off;"]
 - Maintain accessibility standards
 - Update documentation
 - Follow the established code style
+- Leverage AI assistance for code generation and optimization
 
 ## 📄 License
 
@@ -276,6 +280,10 @@ For support and questions:
 - Check the documentation
 - Review the test examples
 
+## 👨‍💻 Developer
+
+**Aharnish** - Full-stack developer specializing in React, Go, and AI-powered applications.
+
 ---
 
-**Built with ❤️ using React and modern web technologies**
+**Built with ❤️ by Aharnish using React and modern web technologies with AI assistance**
